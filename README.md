@@ -4,7 +4,7 @@
 ## Tenho 20 anos de idade e atualmente sou estagiário na @BuserBrasil. Sou completamente apaixonado por tecnologia e justamente por isso sou graduando
 em Computação em Nuvem. Também sou formado em Técnico de Informática pela ETEC de Ilha Solteira.
 
-<div>
+<div style="display: flex">
 <a href="https://github.com/lukemariano">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemariano&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukemariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
