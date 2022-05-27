@@ -10,8 +10,6 @@ em Computação em Nuvem. Também sou formado em Técnico de Informática pela E
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukemariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
- <img src=/home/lucassilva/Downloads/>
-
 
 
 ![Snake animation](https://github.com/lukemariano/lukemariano/blob/output/github-contribution-grid-snake.svg)
