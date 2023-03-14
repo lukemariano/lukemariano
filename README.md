@@ -1,7 +1,7 @@
 ## Olá, sou o Lucas Mariano ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-## Tenho 20 anos de idade e atualmente sou estagiário na @BuserBrasil. Sou completamente apaixonado por tecnologia e justamente por isso sou graduando em Computação em Nuvem. Também sou formado em Técnico de Informática pela ETEC de Ilha Solteira.
+## Tenho 21 anos de idade e atualmente sou estagiário na @BuserBrasil. Sou completamente apaixonado por tecnologia e justamente por isso sou graduando em Computação em Nuvem. Também sou formado em Técnico de Informática pela ETEC de Ilha Solteira.
 
 
 <div style="display: flex">
