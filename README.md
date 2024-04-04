@@ -1,7 +1,6 @@
 ## Olá, sou o Lucas Mariano ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-## Sou completamente apaixonado por tecnologia e justamente por isso sou graduando em Ciência de Dados. Também sou formado no curso Técnico em Informática pela ETEC de Ilha Solteira.
 
 
 <div style="display: flex">
